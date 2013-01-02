@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'FontasticIcons'
+  s.name     = 'BDKFontasticIcons'
   s.platform = :ios
   s.version  = '0.0.1.dev1'
   s.license  = 'MIT'
