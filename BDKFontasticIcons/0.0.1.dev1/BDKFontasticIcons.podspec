@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Objective-C wrapper for iconic fonts.'
   s.homepage = 'https://github.com/kreeger/FontasticIcons'
   s.author   = { 'Alex Denisov' => '1101.debian@gmail.com' }
-  s.source   = { :git => 'https://github.com/kreeger/FontasticIcons.git', :branch => 'fixed-named', :commit => '7b9cd6a82de3fede6fef543daafff9dc395d0097' }
+  s.source   = { :git => 'https://github.com/kreeger/FontasticIcons.git', :branch => 'names', :commit => '05a262b1b16d85b1dbf8acba6195f844d76a1d79' }
   s.description  = 'Objective-C wrapper for iconic fonts.'
   s.source_files = 'FontasticIcons/Sources/Classes/*.{h,m}'
   s.resources = 'FontasticIcons/Sources/Resources/Fonts/*'
