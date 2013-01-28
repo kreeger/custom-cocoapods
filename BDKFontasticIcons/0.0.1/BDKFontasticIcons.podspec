@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'BDKFontasticIcons'
   s.platform = :ios, '4.0'
-  s.version  = '0.0.1.dev1'
+  s.version  = '0.0.1'
   s.license  = 'MIT'
   s.summary  = 'Objective-C wrapper for iconic fonts.'
   s.homepage = 'https://github.com/kreeger/FontasticIcons'
