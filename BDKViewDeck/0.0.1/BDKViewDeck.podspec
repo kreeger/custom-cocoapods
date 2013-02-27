@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   }
   s.author    = { 'Tom Adriaenssen' =>  'http://codedump.blergh.be/' }
   s.source    = { :git => 'https://github.com/digitaljohn/ViewDeck.git',
-                  :branch => 'paralax', :commit => 'c1249825cfc9bed219ef9a655abad2d94dd2dd09' }
+                  :branch => 'paralax', :commit => 'b51e8dbaaa4e67cd62ec009cf0624c973605f09f' }
   s.source_files  = 'ViewDeck/*.{h,m}'
   s.frameworks    = 'QuartzCore'
 end
